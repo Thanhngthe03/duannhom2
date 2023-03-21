@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "338269400310",
+    "firebase_url": "https://duan1-55602-default-rtdb.firebaseio.com",
+    "project_id": "duan1-55602",
+    "storage_bucket": "duan1-55602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338269400310:android:6bdb2f3f665a66a0aa50d7",
+        "android_client_info": {
+          "package_name": "com.example.duan1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338269400310-dnh7i6f9tpsm8br7u6mrflko95l38nlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4FMF9Tes0AKF9bOpY-2WG8wVbWFKLbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338269400310-dnh7i6f9tpsm8br7u6mrflko95l38nlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338269400310:android:c0a5193ed7064396aa50d7",
+        "android_client_info": {
+          "package_name": "com.example.duan1nhom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338269400310-dnh7i6f9tpsm8br7u6mrflko95l38nlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4FMF9Tes0AKF9bOpY-2WG8wVbWFKLbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338269400310-dnh7i6f9tpsm8br7u6mrflko95l38nlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
